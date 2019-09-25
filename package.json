@@ -3,10 +3,5 @@
   "private": true,
   "devDependencies": {
     "lerna": "^3.16.4"
-  },
-  "scripts": {
-    "lerna": "lerna",
-    "bootstrap": "lerna bootstrap",
-    "add": "lerna add"
   }
 }
